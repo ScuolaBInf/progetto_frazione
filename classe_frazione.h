@@ -13,6 +13,5 @@ class frazione
 			frazione(int = 0, int = 1);
 			void assegna(int, int);
 			void stampa();
-			frazione operator + (frazione);
-			
+			frazione operator + (frazione);	
 	};

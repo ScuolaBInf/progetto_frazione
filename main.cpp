@@ -21,6 +21,4 @@ main ()
 			{
 				cout << msg;
 			}
-		//coasdioghsid	
-
 	}
